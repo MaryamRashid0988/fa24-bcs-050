@@ -1,0 +1,5 @@
+step 1: create text document 
+step 2: create a class. (program code) and save document with .java extension.
+step 3: open command prompt and copy file path
+step 4: enter "javac bcs.java" to compile the program and create class
+step 5: enter "java bcs" to run the program.
